@@ -1,7 +1,7 @@
-import java.uƟl.*;
-public class PaƩernEg {
+import java.util.*;
+public class Pat {
 // FuncƟon to demonstrate paƩern
-public staƟc void printPaƩern(int n) {
+public staƟc void printPat(int n) {
 int i, j;
 // outer loop to handle rows
 for (i = 0; i < n; i++) {
